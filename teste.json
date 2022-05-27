@@ -1,0 +1,22 @@
+{
+  "title": "teste",
+  "description": "",
+  "artist": "",
+  "author": "",
+  "cover": "",
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "",
+      "last_updated": "1653693616",
+      "groups": {
+        "": [
+          "https://i.imgur.com/eGBUrP3.png",
+          "https://i.imgur.com/vMfHfQN.png",
+          "https://i.imgur.com/yuzVFeC.jpg",
+          ""
+        ]
+      }
+    }
+  }
+}
